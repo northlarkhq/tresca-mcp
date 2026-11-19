@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "app.tresca/catalog",
   "title": "Tresca",
-  "description": "Read-only search of Tresca's MCP servers and agent skills for engineering software, with sourced facts.",
+  "description": "Read-only search of MCP servers and agent skills for engineering software, with sourced facts.",
   "version": "1.0.0",
   "websiteUrl": "https://tresca.app/agents/",
   "repository": { "url": "https://github.com/northlarkhq/tresca-mcp", "source": "github" },
