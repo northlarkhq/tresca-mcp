@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "tresca": { "type": "http", "url": "https://tresca.app/mcp" }
+  }
+}

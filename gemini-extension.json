@@ -1,0 +1,10 @@
+{
+  "name": "tresca",
+  "version": "1.0.0",
+  "description": "Find, check and install MCP servers and agent skills for engineering software with sourced facts from the Tresca directory (tresca.app). Adds the read-only Tresca MCP server.",
+  "mcpServers": {
+    "tresca": {
+      "httpUrl": "https://tresca.app/mcp"
+    }
+  }
+}

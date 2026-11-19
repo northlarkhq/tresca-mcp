@@ -1,0 +1,11 @@
+{
+  "name": "tresca",
+  "owner": { "name": "Tresca", "url": "https://tresca.app/" },
+  "plugins": [
+    {
+      "name": "tresca",
+      "source": "./",
+      "description": "Find, check and install MCP servers and agent skills for engineering software with sourced facts from the Tresca directory."
+    }
+  ]
+}

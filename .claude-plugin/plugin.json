@@ -1,0 +1,10 @@
+{
+  "name": "tresca",
+  "version": "1.0.0",
+  "description": "Find, check and install MCP servers and agent skills for engineering software (CAD, BIM, FEA, CFD, EDA, PLC) with sourced facts from the Tresca directory (tresca.app). Adds the read-only Tresca MCP server and the tresca skill.",
+  "author": { "name": "Tresca", "url": "https://tresca.app/" },
+  "homepage": "https://tresca.app/agents/",
+  "repository": "https://github.com/northlarkhq/tresca-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "mcp-servers", "agent-skills", "engineering", "cad", "bim", "simulation"]
+}
